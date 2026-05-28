@@ -1,6 +1,9 @@
 # Repositorio-Grupal-9b
 practica 1
 
+Practica  ximena sanchez marquez 28/05/2026
+
+
 
 
 **Datos**
